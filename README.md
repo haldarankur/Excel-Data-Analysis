@@ -1,1 +1,2 @@
 # Excel-Data-Analysis
+Here I have conducted an in-depth analysis of Fitbit fitness tracker data using Microsoft Excel to perform data cleaning, data transformation, exploratory data analysis (EDA), and customer segmentation. The project focuses on identifying behavioural patterns, deriving actionable insights, and evaluating potential customer segments to support strategic marketing initiatives and data-driven business decision-making for WeFit and its subsidiaries.
