@@ -33,6 +33,6 @@ WeFit – Daily Activity Analysis & Dashboard
 - Repeat the analysis (user count, usage, activity, distance, steps, and calories) based on distinct dates.
 - Create charts and visualizations using the filtered data to build a management dashboard.
 
-<a href="https://github.com/haldarankur/Excel-Data-Analysis/blob/main/fitbitanalysis.xlsx" target="_blank">
-  VIEW FINAL DATA →
+-  Take a glance at the <a href="https://github.com/haldarankur/Excel-Data-Analysis/blob/main/fitbitanalysis.xlsx" target="_blank">
+  FINAL DATA →
 </a>
