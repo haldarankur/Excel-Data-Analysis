@@ -5,3 +5,4 @@ Here I have conducted an in-depth analysis of Fitbit fitness tracker data using 
 The primary motive of this project is to analyze Fitbit user activity and sleep patterns to identify distinct customer segments based on their fitness habits, activity levels, and lifestyle behaviours. The analysis aims to identify potential customers for WeFit's subsidiaries — LeanFit, FitWear, and Sleepy-Nights — while uncovering meaningful usage trends and translating them into actionable business insights to support targeted marketing strategies, customer acquisition, and informed decision-making.
 
 ## Datasets used
+-  <a href="https://github.com/haldarankur/Excel-Data-Analysis/blob/main/FitBit_Dataset.zip">Fitbit Dataset</a>
