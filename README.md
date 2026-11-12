@@ -6,3 +6,6 @@ The primary motive of this project is to analyze Fitbit user activity and sleep 
 
 ## Datasets used
 -  <a href="https://github.com/haldarankur/Excel-Data-Analysis/blob/main/FitBit_Dataset.zip">Fitbit Dataset</a>
+
+## Questions (KPIs)
+### xyz
