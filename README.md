@@ -32,3 +32,21 @@ WeFit – Daily Activity Analysis & Dashboard
 - Calculate each user's Very Active, Fairly Active, and Lightly Active Minutes.
 - Repeat the analysis (user count, usage, activity, distance, steps, and calories) based on distinct dates.
 - Create charts and visualizations using the filtered data to build a management dashboard.
+
+
+<div style="border:1px solid #30363d; border-radius:10px; padding:18px;">
+
+<p><b>PROJECT RESOURCE</b> &nbsp; | &nbsp; DATA FILE</p>
+
+<h3>📗 Fitbit_Analysis_Final.xlsx</h3>
+
+<p>
+Access the final workbook to explore the processed data,
+calculated KPIs, and customer segmentation results.
+</p>
+
+<a href="YOUR_FILE_LINK" target="_blank">
+VIEW FULL DATASET →
+</a>
+
+</div>
