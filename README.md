@@ -38,3 +38,16 @@ WeFit – Daily Activity Analysis & Dashboard
   FINAL DATA →
 </a>
 </b>
+
+## Process
+-  Import and inspect the Fitbit datasets to understand their structure and identify relevant data fields.
+-  Clean and preprocess the datasets to ensure data consistency and accuracy.
+-  Analyze BMI and heart rate metrics to identify potential customers for LeanFit.
+-  Evaluate tracker usage frequency and activity levels to identify potential customers for FitWear.
+-  Examine sleep duration and patterns to identify potential subscribers for Sleepy-Nights.
+-  Extract unique user IDs and calculate individual tracker usage days from the Daily Activity dataset.
+-  Segment users into Active, Moderate, and Light categories based on tracker usage frequency.
+-  Calculate mean distance and classify users into Pro, Intermediate, and Beginner categories.
+-  Calculate total steps, calories burned, and Very Active, Fairly Active, and Lightly Active Minutes for each user.
+-  Repeat the activity analysis using distinct dates to determine daily usage and activity trends.
+-  Create charts and visualizations from the processed data to develop an interactive management dashboard.
